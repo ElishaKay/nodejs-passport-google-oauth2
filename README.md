@@ -99,4 +99,4 @@ b) When you deploy to heroku, Heroku automatically sets the NODE_ENV variable eq
 
 <h5>Viewing the flow charts</h5>
 
-You'll notice in the <a href="diagrams/"> folder you have a lot of flowcharts. You can access them at: https://www.draw.io/
+You'll notice in the <a href="diagrams">diagrams</a> folder you have a lot of flowcharts. You can access them at: https://www.draw.io/
