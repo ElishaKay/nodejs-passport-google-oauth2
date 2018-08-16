@@ -1,6 +1,6 @@
 # nodejs-passport-google-oauth2
 
-This repo is based on an early commit of brillian project by Stephen Grider. The code is from a course called "Node with React: Fullstack Web Development"
+This repo is based on an early commit of a brilliant project by Stephen Grider. The code is from a course called "Node with React: Fullstack Web Development"
 
 https://www.udemy.com/node-with-react-fullstack-web-development/
 
